@@ -1,0 +1,22 @@
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-top: 8%;
+}
+
+.social-icon {
+  margin: 0 10px;
+  cursor: pointer;
+  width: 60px;
+  height: 50px;
+}
+
+.account-id {
+  text-align: center;
+  margin-top: 20px;
+}
+body {
+  background-repeat: repeat;
+  background-image: url("https://thumbs.dreamstime.com/b/texture-background-red-color-paper-blank-page-39125003.jpg");
+}
